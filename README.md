@@ -1,3 +1,5 @@
+![list page](https://github.com/Luwhai/SpringBootVueProjectDemo/blob/main/20250414.png)
+
 # Spring Boot 3 + Vue JS 3 + MySQL CRUD 
 
 ## 这是一个简单的用户管理应用，包含CRUD操作
