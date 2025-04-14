@@ -24,6 +24,7 @@ Step 1. Clone the Repository
 Step 2.  mvn clean install
 
 Step 3.  mvn spring-boot:run
+
 Access the rest API
        http://localhost:8080/api/v1/users
 
